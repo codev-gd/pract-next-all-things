@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-practnextallthings-dev-201318-authRole",
+      "UnauthRoleArn": "arn:aws:iam::320232706860:role/amplify-practnextallthings-dev-201318-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::320232706860:role/amplify-practnextallthings-dev-201318-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-practnextallthings-dev-201318-deployment",
+      "UnauthRoleName": "amplify-practnextallthings-dev-201318-unauthRole",
+      "StackName": "amplify-practnextallthings-dev-201318",
+      "StackId": "arn:aws:cloudformation:us-east-1:320232706860:stack/amplify-practnextallthings-dev-201318/bc7a4f50-c84e-11ed-a2ed-0ae8e38301bf",
+      "AmplifyAppId": "d2ulbzlzybx4q0"
+    }
+  }
+}
